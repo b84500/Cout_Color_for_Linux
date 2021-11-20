@@ -8,3 +8,6 @@ SOURCES += \
 
 HEADERS += \
     color.h
+
+DISTFILES += \
+    README.md
